@@ -1,0 +1,15 @@
+[user]
+	name = Jason Walker
+	email = jwalker@genome.wustl.edu
+[color]
+	branch = auto
+	status = auto
+	diff = auto
+[core]
+	pager = less -FXRS
+	excludesfile = /gscuser/jwalker/.gitignore
+	filemodes = true
+	filemode = false
+        preloadindex = true
+[push]
+	default = simple

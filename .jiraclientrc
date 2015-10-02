@@ -1,0 +1,12 @@
+# .jiraclientrc
+[jiraclient]
+jiraurl = https://jira.gsc.wustl.edu
+user = jwalker
+[issues]
+project = BIO
+#type = story
+#priority = Normal
+#epic_theme = 
+#assignee = 
+#components = 
+#fixVersions = 
